@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nick, i'm 15 years old and i'm from Italy.
+- 👀 I’m interested in Gaming and making new friends.
+- 🌱 I’m currently learning C++ and Python
